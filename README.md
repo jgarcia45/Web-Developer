@@ -1,2 +1,4 @@
 # Web-Developer
-This contains code that is my website
+This repository contains code that is making my website.
+
+juanalfredogarciajr.com
